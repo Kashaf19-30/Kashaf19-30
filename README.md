@@ -33,6 +33,160 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kashaf19-30&show_icons=true&locale=en" alt="kashaf19-30" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kashaf19-30&" alt="kashaf19-30" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kashaf19-30&" alt="kashaf19-30" /></p>🚀 Featured Projects
+🎓 Campus360 — University ERP System
+
+A web-based University ERP System designed to manage university operations through different role-based dashboards.
+
+Tech Stack:
+
+React Django Django REST Framework PostgreSQL REST API
+
+Main Modules
+👤 Applicant
+📝 Admission
+👨‍🏫 Teacher
+🎓 Student
+💰 Account
+📚 Examination
+
+🔗 Repository:
+
+
+
+🍽️ Piu Piu Recipes Website
+
+A responsive recipe website created to practice HTML and CSS and improve frontend design skills.
+
+Features
+🏠 Home page
+🍲 Recipe cards
+📝 Recipe details
+🥘 Ingredients
+👩‍🍳 Cooking instructions
+⏱️ Cooking time
+📊 Nutrition information
+📖 About page
+
+Tech Stack:
+
+HTML CSS JavaScript
+
+🔗 Repository:
+
+
+
+📦 Inventory Management System
+
+An inventory management project developed using:
+
+ASP.NET MVC C# Entity Framework SQL Server
+
+The system focuses on managing inventory-related records and database operations.
+
+🔗 More Projects:
+
+
+
+📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Kashaf19-30&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" alt="Kashaf's GitHub Stats"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashaf19-30&layout=compact&hide_border=true&langs_count=8" alt="Kashaf's Top Languages"/>
+
+</div>
+
+🔥 Contribution Streak
+
+<div align="center">
+
+<a href="https://github.com/Kashaf19-30">
+
+<img src="https://streak-stats.demolab.com/?user=Kashaf19-30&hide_border=true" alt="Kashaf's GitHub Streak"/>
+
+</a>
+
+</div>
+
+📈 GitHub Activity
+
+<div align="center">
+
+<a href="https://github.com/Kashaf19-30">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kashaf19-30&hide_border=true" alt="Kashaf's GitHub Activity Graph"/>
+
+</a>
+
+</div>
+
+🏆 GitHub Achievements
+
+<div align="center">
+
+<a href="https://github.com/Kashaf19-30">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Kashaf19-30&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies"/>
+
+</a>
+
+</div>
+
+📌 GitHub Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kashaf19-30&custom_title=Kashaf's%20Contribution%20Graph&hide_border=true" alt="Contribution Graph"/>
+
+</div>
+
+📚 Currently Learning
+
+<div align="center">
+
+Technology	Focus
+🌐 HTML	Semantic & accessible web pages
+🎨 CSS	Responsive layouts & modern UI
+⚡ JavaScript	DOM, events, functions & APIs
+⚛️ React	Components, props, state & hooks
+🐍 Django	Backend & REST APIs
+🐘 PostgreSQL	Database management
+🔧 Git	Version control
+🐙 GitHub	Repositories, branches & collaboration
+
+</div>
+
+🎯 2026 Goals
+✅ Improve HTML & CSS
+🔄 Build more JavaScript projects
+🔄 Strengthen JavaScript fundamentals
+🎯 Learn React properly
+🎯 Build responsive websites
+🎯 Improve Git & GitHub workflow
+🎯 Build full-stack projects
+🚀 Create a strong developer portfolio
+🤝 Let's Connect
+
+<div align="center">
+
+<a href="mailto:kashafkhalid1930@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a>
+
+<a href="https://github.com/Kashaf19-30"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a>
+
+<a href="https://instagram.com/kashaf2_0_0_0"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/> </a>
+
+</div>
+
+<div align="center">
+
+💙 Thanks for visiting my profile!
+
+"Learning by building, improving by practicing."
+
+⭐ Feel free to explore my repositories and projects!
+
+</div>
 
 
