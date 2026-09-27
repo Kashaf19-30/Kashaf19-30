@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Kashaf</h1>
 <h3 align="center">A passionate frontend developer.</h3>
 
@@ -36,3 +34,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kashaf19-30&show_icons=true&locale=en" alt="kashaf19-30" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kashaf19-30&" alt="kashaf19-30" /></p>
+
+
